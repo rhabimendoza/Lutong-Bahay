@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">LutongBahay</string>
+
+    <string name="to_filter">Maghanap</string>
+    <string name="to_insert">Magdagdag</string>
+
+    <string name="budget">Badyet</string>
+
+    <string name="difficulty">Antas ng Hirap</string>
+    <string-array name="difficulty_range">
+        <item>Madali</item>
+        <item>Katamtaman</item>
+        <item>Mahirap</item>
+    </string-array>
+
+    <string name="customize">I-customize</string>
+
+    <string name="mainingredient">Sangkap</string>
+    <string name="vege">Gulay</string>
+    <string name="fish">Isda</string>
+    <string name="chic">Manok</string>
+    <string name="pork">Baboy</string>
+    <string name="beef">Baka</string>
+    <string-array name="ingredient_range">
+        <item>Gulay</item>
+        <item>Isda</item>
+        <item>Manok</item>
+        <item>Baboy</item>
+        <item>Baka</item>
+    </string-array>
+
+    <string name="mainflavor">Timpla</string>
+    <string name="sweet">Matamis</string>
+    <string name="spicy">Maanghang</string>
+    <string name="sour">Maasim</string>
+    <string name="salty">Maalat</string>
+    <string-array name="flavor_range">
+        <item>Matamis</item>
+        <item>Maanghang</item>
+        <item>Maasim</item>
+        <item>Maalat</item>
+    </string-array>
+
+    <string name="servings">Dami</string>
+
+    <string name="filter">Maghanap</string>
+
+    <string name="share_recipe">Ibahagi</string>
+    <string name="food_name">Pangalan</string>
+    <string name="procedure">Proseso</string>
+    <string name="creator">May-akda</string>
+    <string name="share">Ibahagi</string>
+    <string name="maghanap_ng_lulutuin">Maghanap Ng Lulutuin</string>
+    <string name="magdagdag_ng_ulam">Magdagdag Ng Ulam</string>
+
+</resources>
